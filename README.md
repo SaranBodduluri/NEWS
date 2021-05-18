@@ -1,4 +1,4 @@
-# Web-Dev
+# NEWS
 
  NEWS is a clone website to the actual google news website.
 It is created using rudimentary css and then html is used to style and structure the webpage.
